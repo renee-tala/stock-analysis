@@ -5,25 +5,20 @@ The purpose of this analysis is to refactor code using Microsoft Excel VBA Scrip
 
 ## Results: 
 
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-
-![original_2017](Resources/Original_2017.png)
-
+- The code ran before refactoring:
+![original_2017](Resources/Original_2017.png)   
+ 
+- The code ran after refactoring:
 ![2017](Resources/VBA_2017.png)
 
-
+- The code ran before refactoring:
 ![original_2018](Resources/Original_2018.png)
 
+- The code ran after refactoring:
 ![2018](Resources/VBA_2018.png)
 
 ## Summary: 
 
-In a summary statement, address the following questions.
-
 Advantages of Refactoring Code
-What are the advantages or disadvantages of refactoring code?
-
-Pros and Cons of 
-
-How do these pros and cons apply to refactoring the original VBA script?
+One advantage of refactoring code is the faster execution. The above photos show the time difference in how the code ran for each year. 
